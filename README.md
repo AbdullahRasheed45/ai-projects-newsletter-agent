@@ -287,5 +287,19 @@ scheduler.add_job(
 MIT License - see [LICENSE](LICENSE) file for complete terms and conditions.
 
 ---
+## 📞 Connect & Support
+
+<div align="center">
+
+### 🚀 Ready to Build Intelligent Weather Agents?
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://techvibes360.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahrasheed-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahrasheed45@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahRasheed45)
+
+**Let's make weather information intelligent and accessible!**
+
+</div>
 
 *Built with ❤️ using Python, Streamlit, and cutting-edge AI technologies. Transform information overload into actionable insights with intelligent newsletter generation.*
